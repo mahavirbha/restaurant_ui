@@ -1,5 +1,7 @@
 # Restaurant UI in React
 
+Technologies: React Js
+
 ## App Link : https://mahavirbha.github.io/restaurant_ui
 
 
